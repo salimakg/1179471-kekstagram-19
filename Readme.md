@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Salima Askaralieva](https://up.htmlacademy.ru/javascript/19/user/1179471).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Лепёшкин](https://up.htmlacademy.ru/javascript/19/tutors).
 
 ---
 
